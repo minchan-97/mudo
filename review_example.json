@@ -1,0 +1,14 @@
+{
+  "pd_fun": 4,
+  "pd_similarity": 3,
+  "pd_note": "중간 반전은 좋았고 첫 미션의 규칙은 더 간결하게.",
+  "members": {
+    "yoo": {"fun": 4, "similarity": 4, "note": "조율하되 매번 정답을 말하지 않기"},
+    "park": {"fun": 4, "similarity": 3, "note": "상황을 뒤집는 선택을 늘리기"},
+    "jung": {"fun": 3, "similarity": 3, "note": "준비한 일이 뒤에 다시 등장하게"},
+    "haha": {"fun": 3, "similarity": 3, "note": "동맹의 이유를 명확히"},
+    "hyungdon": {"fun": 3, "similarity": 3, "note": "관찰에서 반전으로 이어지게"},
+    "yang": {"fun": 3, "similarity": 3, "note": "앞사람의 행동을 이어받기"},
+    "cho": {"fun": 3, "similarity": 3, "note": "작은 성공을 축적하기"}
+  }
+}
